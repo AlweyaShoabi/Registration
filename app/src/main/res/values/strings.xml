@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Create Account</string>
+    <string name="register_here">Register Here</string>
+    <string name="full_name">Full Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="register">Register</string>
+    <string name="already_registered">Already Registered?</string>
+    <string name="login_here">Login Here</string>
+    <string name="todo">TODO</string>
+    <string name="new_here">New Here?</string>
+    <string name="create_account">Create Account</string>
+    <string name="login">Login</string>
+    <string name="welcome">Welcome</string>
+    <string name="clickit">ClickIt</string>
+    <string name="thank_you">Thank You</string>
+    <string name="logout">LOGOUT</string>
+
+</resources>
